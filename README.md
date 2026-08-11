@@ -1,2 +1,2 @@
-# itsaportfolioforme
-this is a starter project for my hands-on with the git version controlling and exploration
+## Live Demo
+[View Website](https://phenomenal-pasca-36ef5d.netlify.app/)
