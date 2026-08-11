@@ -1,0 +1,7 @@
+# Ignore backend dependencies and environment secrets
+/backend/node_modules
+/backend/.env
+
+# Optional local editor files
+.DS_Store
+Thumbs.db
